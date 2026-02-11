@@ -1,143 +1,252 @@
-<!-- Profile README for github.com/<your-username> -->
+<!-- Saksham Kandel GitHub Profile README -->
 
+<a href="https://github.com/sakshamkandel">
+  <img align="right" src="https://github.com/sakshamkandel/sakshamkandel/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</a>
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FFD23F&height=200&section=header&text=Saksham%20Kandel&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Visual%20Designer%20%7C%20Cloud%20Architect&descAlignY=55&descSize=18"/>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/sakshamkandel">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+future+with+AI;Crafting+visual+experiences;Scaling+cloud+solutions" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Profile Views & Stats Row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshamkandel&label=Profile%20Views&color=FF6B35&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Focus"/>
+</p>
+
+<!-- About Section with Glow Effect -->
 <div align="center">
   
-  <h1>Hi, I'm Saksham Kandel</h1>
+| ![](https://img.shields.io/badge/-%F0%9F%91%8B%20About%20Me-0D1117?style=for-the-badge) |
+|:-|
 
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=720&lines=AI+Student+%7C+Visual+Designer+%7C+Web+Developer;Amazon+Product+Page+%26+EBC%2FA%2B+Designer;Branding+%2B+Design+%2B+AI+for+digital+experiences"
-      alt="Typing SVG"
-    />
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Current Focus
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+
+- 🎓 BSc AI @ **Islington College** & **London Metropolitan University**
+- 💼 Founder @ **Kurly Brains**
+- 🎨 Visual Designer @ **ASINIFY**
+- ☁️ AWS Certified (Cloud, ML, NLP, Data Engineering)
+- 🌍 Freelancing on **Upwork**
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Quick Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamkandel&show_icons=true&theme=transparent&hide_border=true&title_color=FF6B35&icon_color=FFD23F&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Experience Section -->
+<div align="center">
+
+| ![](https://img.shields.io/badge/-%F0%9F%92%BC%20Experience-0D1117?style=for-the-badge) |
+|:-|
+
+</div>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<details>
+<summary><img src="https://img.shields.io/badge/-Kurly%20Brains-FF6B35?style=flat-square&logo=rocket&logoColor=white"/> <b>Founder</b> | Feb 2026 - Present</summary>
+<br>🚀 Leading innovation at the intersection of AI and creative design
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/-ASINIFY-F7931E?style=flat-square&logo=amazon&logoColor=white"/> <b>Visual Designer</b> | Jun 2025 - Present</summary>
+<br>🎨 Crafting SEO-optimized product listings and compelling EBC/A+ content for Amazon
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/-Everest%20Thunders-FFD23F?style=flat-square&logo=lightning&logoColor=black"/> <b>Creative Lead</b> | Dec 2025 - Feb 2026</summary>
+<br>⚡ Leading creative direction and brand development
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/-Biratnagar%20Kings-FF6B35?style=flat-square&logo=crown&logoColor=white"/> <b>Lead Designer</b> | Aug 2025 - Feb 2026</summary>
+<br>👑 Comprehensive brand identity and visual systems
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/-Upwork-14A800?style=flat-square&logo=upwork&logoColor=white"/> <b>Freelance Graphic Designer</b> | Feb 2025 - Feb 2026</summary>
+<br>🌟 International clients: Logo design, branding, social media graphics, brochures
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/-National%20Sports%20Council-FF6B35?style=flat-square&logo=basketball&logoColor=white"/> <b>Graphic Designer (NEBA)</b> | Feb 2025 - Jun 2025</summary>
+<br>🏀 Sports branding and promotional materials
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/-Idea%20Pixel-F7931E?style=flat-square&logo=palette&logoColor=white"/> <b>Visual Designer</b> | Oct 2024 - Jun 2025</summary>
+<br>🎨 Creative visual solutions for diverse clients
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/-Karnali%20Yaks-FFD23F?style=flat-square&logo=mountain&logoColor=black"/> <b>Branding & Digital Marketing</b> | Oct 2024 - Dec 2024</summary>
+<br>🏔️ Complete brand overhaul and digital strategy
+</details>
+
+</td>
+</tr>
+</table>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Skills Section -->
+<div align="center">
+
+| ![](https://img.shields.io/badge/-%F0%9F%92%AA%20Top%20Skills-0D1117?style=for-the-badge) |
+|:-|
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,tailwind,figma,aws,git&perline=10&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-FF6B35?style=for-the-badge&logo=code&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Programming-F7931E?style=for-the-badge&logo=terminal&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Brand%20Management-FFD23F?style=for-the-badge&logo=brand&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-F7931E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Graphic%20Design-FFD23F?style=for-the-badge&logo=adobe&logoColor=black&labelColor=0D1117"/>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Certifications Section -->
+<div align="center">
+
+| ![](https://img.shields.io/badge/-%F0%9F%8F%86%20AWS%20Certifications-0D1117?style=for-the-badge) |
+|:-|
+
+</div>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Foundations"/></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS ML Foundations"/></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/AWS-ML%20for%20NLP-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS NLP"/></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/AWS-Data%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Data Engineering"/></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Java-OOP%20Certified-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=000000" alt="Java OOP"/></a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- GitHub Trophies -->
+<div align="center">
+
+| ![](https://img.shields.io/badge/-%F0%9F%8F%86%20GitHub%20Trophies-0D1117?style=for-the-badge) |
+|:-|
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshamkandel&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=15" width="100%"/>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamkandel&theme=dark&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FFD23F&currLabel=F7931E" alt="GitHub Streak"/>
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamkandel&bg_color=0D1117&color=FF6B35&line=F7931E&point=FFD23F&area=true&hide_border=true" width="100%"/>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Contact Section -->
+<div align="center">
+
+| ![](https://img.shields.io/badge/-%F0%9F%93%9E%20Get%20In%20Touch-0D1117?style=for-the-badge) |
+|:-|
+
+</div>
+
+<p align="center">
+  <a href="mailto:officialsakshamkandel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-officialsakshamkandel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshamkandel">
+    <img src="https://img.shields.io/badge/LinkedIn-Saksham%20Kandel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
+  <a href="tel:9749409317">
+    <img src="https://img.shields.io/badge/Phone-+977%209749409317-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sakshamkandel">
+    <img src="https://img.shields.io/badge/GitHub-sakshamkandel-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-  <p>
-    Founder at Kurly Brains · Visual Designer at ASINIFY · BSc Artificial Intelligence @ Islington College / London Metropolitan University
-  </p>
+<!-- Location Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/>
+</p>
 
-  <!-- Contact badges -->
-  <p>
-    <a href="mailto:officialsakshamkandel@gmail.com">
-      <img src="https://img.shields.io/badge/Email-officialsakshamkandel%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/sakshamkandel">
-      <img src="https://img.shields.io/badge/LinkedIn-sakshamkandel-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>
+<!-- Random Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
 
----
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD23F,50:F7931E,100:FF6B35&height=120&section=footer"/>
 
-### About me
+<!-- Fun Badge -->
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
+</p>
 
-- BSc Artificial Intelligence student (Islington College · London Metropolitan University)
-- Product page and EBC/A+ content designer for Amazon brands
-- Founder of Kurly Brains and freelance visual designer on Upwork
-- Experience with sports franchises, film branding, and digital campaigns
-- Blend branding strategy, UX, and AI concepts to build better visual stories
-
----
-
-### Contact
-
-- Location: Kathmandu, Bagmati, Nepal  
-- Email: [officialsakshamkandel@gmail.com](mailto:officialsakshamkandel@gmail.com)  
-- Phone: +977 9749409317  
-- LinkedIn: [linkedin.com/in/sakshamkandel](https://www.linkedin.com/in/sakshamkandel)
-
----
-
-### Skills and tools
-
-**Core skills**
-
-- Web development  
-- Programming  
-- Brand management and visual identity  
-- Amazon product page / EBC / A+ design  
-
-**What I work with**
-
-<div align="left">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <!-- Web / Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-  <!-- Cloud / Data / ML -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-
-  <!-- Design -->
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white" />
-
-</div>
-
----
-
-### Experience highlights
-
-- Founder – **Kurly Brains**
-- Visual Designer – **ASINIFY**
-- Creative Lead – **Everest Thunders**
-- Lead Designer – **Biratnagar Kings**
-- Graphic Designer – **Upwork (international clients)**
-- Graphic Designer – **National Sports Council (NEBA)**
-- Visual Designer – **Idea Pixel**
-- Graphic Designer – **Pitambar Movie**
-- Graphic Designer & Branding – **Karnali Yaks**
-
----
-
-### Certifications
-
-- AWS Academy Cloud Foundations  
-- AWS Academy Machine Learning Foundations  
-- AWS Academy Machine Learning for Natural Language Processing  
-- AWS Academy Data Engineering  
-- Java Object-Oriented Programming  
-
----
-
-### GitHub stats (animated cards)
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub stats"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-
-</div>
-
----
-
-### Snake contribution graph
-
-<div align="center">
-
-  <!-- Snake animation (generated via GitHub Actions below) -->
-  <img
-    src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
-
-</div>
+<!-- Hidden Easter Egg -->
+<!--
+  Thanks for scrolling! 
+  Remember: Code is poetry, and you're the poet! 🎨
+  - Saksham
+-->
