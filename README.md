@@ -1,95 +1,143 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Saksham+Kandel;Founder+of+Kurly+Brains;AI+%26+Data+Engineering;Visual+Brand+Designer" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sakshamkandel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:officialsakshamkandel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://upwork.com">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=sakshamkandel&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<br/>
-
-<h3 align="center">⚡ About Me</h3>
+<!-- Profile README for github.com/<your-username> -->
 
 <div align="center">
   
-> *Merging **Artificial Intelligence** with **Creative Design** to build scalable digital products.*
+  <h1>Hi, I'm Saksham Kandel</h1>
 
-</div>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=720&lines=AI+Student+%7C+Visual+Designer+%7C+Web+Developer;Amazon+Product+Page+%26+EBC%2FA%2B+Designer;Branding+%2B+Design+%2B+AI+for+digital+experiences"
+      alt="Typing SVG"
+    />
+  </a>
 
-I am a **Product Page Designer** and **BSc AI Undergraduate** based in **Kathmandu, Nepal**. I specialize in creating SEO-optimized listings for Amazon and developing data-driven web solutions.
+  <p>
+    Founder at Kurly Brains · Visual Designer at ASINIFY · BSc Artificial Intelligence @ Islington College / London Metropolitan University
+  </p>
 
-- 🔭 **Currently Working:** Founder at **Kurly Brains** & Visual Designer at **ASINIFY**.
-- 🎓 **Education:** BSc Artificial Intelligence at **Islington College / London Metropolitan University**.
-- 💡 **Core Skills:** AWS Cloud, NLP, Data Engineering, & Brand Management.
-- 🎨 **Freelance:** Specializing in Logo Design & Social Media Graphics on Upwork.
+  <!-- Contact badges -->
+  <p>
+    <a href="mailto:officialsakshamkandel@gmail.com">
+      <img src="https://img.shields.io/badge/Email-officialsakshamkandel%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/sakshamkandel">
+      <img src="https://img.shields.io/badge/LinkedIn-sakshamkandel-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 
----
-
-<h3 align="center">🛠️ Technical Arsenal</h3>
-
-<div align="center">
-
-| **Core Tech** | **Cloud & AI** | **Design & Creative** |
-|:---:|:---:|:---:|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![NLP](https://img.shields.io/badge/NLP-Natural_Language-blue?style=for-the-badge) | ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Data Eng](https://img.shields.io/badge/Data_Engineering-purple?style=for-the-badge) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-
-</div>
-
-<br/>
-
-<h3 align="center">🏆 AWS Certifications</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS%20Academy-Graduate-232F3E?style=flat-square&logo=amazon-aws" /> <br/>
-  <code>Machine Learning for NLP</code> • <code>Machine Learning Foundations</code> • <code>Cloud Foundations</code> • <code>Data Engineering</code>
 </div>
 
 ---
 
-<h3 align="center">🐍 Coding Activity</h3>
-<div align="center">
-  <img src="https://github.com/sakshamkandel/sakshamkandel/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+### About me
+
+- BSc Artificial Intelligence student (Islington College · London Metropolitan University)
+- Product page and EBC/A+ content designer for Amazon brands
+- Founder of Kurly Brains and freelance visual designer on Upwork
+- Experience with sports franchises, film branding, and digital campaigns
+- Blend branding strategy, UX, and AI concepts to build better visual stories
+
+---
+
+### Contact
+
+- Location: Kathmandu, Bagmati, Nepal  
+- Email: [officialsakshamkandel@gmail.com](mailto:officialsakshamkandel@gmail.com)  
+- Phone: +977 9749409317  
+- LinkedIn: [linkedin.com/in/sakshamkandel](https://www.linkedin.com/in/sakshamkandel)
+
+---
+
+### Skills and tools
+
+**Core skills**
+
+- Web development  
+- Programming  
+- Brand management and visual identity  
+- Amazon product page / EBC / A+ design  
+
+**What I work with**
+
+<div align="left">
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Web / Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- Cloud / Data / ML -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white" />
+
 </div>
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+### Experience highlights
+
+- Founder – **Kurly Brains**
+- Visual Designer – **ASINIFY**
+- Creative Lead – **Everest Thunders**
+- Lead Designer – **Biratnagar Kings**
+- Graphic Designer – **Upwork (international clients)**
+- Graphic Designer – **National Sports Council (NEBA)**
+- Visual Designer – **Idea Pixel**
+- Graphic Designer – **Pitambar Movie**
+- Graphic Designer & Branding – **Karnali Yaks**
+
+---
+
+### Certifications
+
+- AWS Academy Cloud Foundations  
+- AWS Academy Machine Learning Foundations  
+- AWS Academy Machine Learning for Natural Language Processing  
+- AWS Academy Data Engineering  
+- Java Object-Oriented Programming  
+
+---
+
+### GitHub stats (animated cards)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshamkandel&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamkandel&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub stats"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
+  />
+
 </div>
 
 ---
 
-<h3 align="center">💼 Professional Journey</h3>
-
-| 🏢 Company | 👨‍💻 Role | 📅 Duration |
-| :--- | :--- | :--- |
-| **Kurly Brains** | Founder | *Feb 2026 - Present* |
-| **ASINIFY** | Visual Designer | *Jun 2025 - Present* |
-| **Everest Thunders** | Creative Lead | *Dec 2025 - Feb 2026* |
-| **Biratnagar Kings** | Lead Designer | *Aug 2025 - Feb 2026* |
-| **National Sports Council (NEBA)** | Graphic Designer | *Feb 2025 - Jun 2025* |
-
-<br/>
+### Snake contribution graph
 
 <div align="center">
-  <i>Let's build something amazing together!</i>
+
+  <!-- Snake animation (generated via GitHub Actions below) -->
+  <img
+    src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
+
 </div>
