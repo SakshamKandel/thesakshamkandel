@@ -1,133 +1,79 @@
-<!-- HEADER SECTION -->
 <div align="center">
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=70&lines=%3E+SAKSHAM+KANDEL;%3E+AI+%2F%2F+DESIGNER+%2F%2F+DEVELOPER;%3E+SYSTEM+BREACHED...;%3E+WELCOME+TO+MY+MATRIX" alt="Typing SVG" /></a>
-
-<!-- Matrix Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,50:003300,100:00FF41&height=200&section=header&text=SAKSHAM%20KANDEL&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=%5BSYSTEM%20ACCESS%20GRANTED%5D&descAlignY=55&descSize=18&descColor=00CC33" width="100%"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Saksham+Kandel;Founder+of+Kurly+Brains;BSc+AI+Student+at+Islington;Visual+Designer+%26+Brand+Manager" alt="Typing SVG" />
 </div>
 
-<!-- TERMINAL INTRO -->
 <div align="center">
-
-
+  <h3>🚀 Web Development | Artificial Intelligence | Brand Management</h3>
+  <br>
+  
+  <a href="mailto:officialsakshamkandel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sakshamkandel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://upwork.com">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
+  </a>
 </div>
 
-<!-- ANIMATED MATRIX LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ABOUT ME SECTION -->
+### 👨‍💻 About Me
 
-## `> cat about_me.txt` 🟢
+I am a **Product Page Designer** and **AI Student** based in **Kathmandu, Nepal**. I combine data-driven technology with creative visual storytelling to build brands and drive conversions.
 
-```js
-const saksham = {
-    pronouns: "he" | "him",
-    location: "Kathmandu, Nepal 🇳🇵",
-    education: {
-        university: "London Metropolitan University",
-        college: "Islington College Kathmandu",
-        degree: "BSc Artificial Intelligence",
-        duration: "Aug 2024 - Aug 2027"
-    },
-    currentRoles: [
-        "Founder @ Kurly Brains",
-        "Visual Designer @ ASINIFY",
-        "Freelance Graphic Designer @ Upwork"
-    ],
-    expertise: [
-        "Web Development", "AI/ML", "Brand Management",
-        "Product Page Design", "SEO Optimization",
-        "EBC/A+ Content", "Logo Design", "UI/UX"
-    ],
-    funFact: "I turn coffee into pixels and code ☕→💻"
-};
+* 🔭 I’m currently working as the **Founder of Kurly Brains** and **Visual Designer at ASINIFY**.
+* 🎓 I’m studying **BSc in Artificial Intelligence** at **Islington College / London Metropolitan University**.
+* 💡 I specialize in **AWS Cloud, NLP, and Data Engineering**.
+* 🎨 I freelance on **Upwork** for Branding and Social Media Graphics.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- EXPERIENCE TIMELINE -->
+---
 
-┌─[saksham@matrix]─[~/experience]
-└──╼ $ tree --timeline
+### 🛠️ Tech Stack & Certifications
 
-📂 CAREER_LOG/
-│
-├── 🟢 [FEB 2026 - PRESENT] ─── Kurly Brains ──────── Founder
-│                                 └── Nepal
-│
-├── 🟢 [JUN 2025 - PRESENT] ─── ASINIFY ───────────── Visual Designer
-│                                 └── Kathmandu, Nepal
-│
-├── 🔴 [DEC 2025 - FEB 2026] ── Everest Thunders ──── Creative Lead
-│                                 └── Kathmandu
-│
-├── 🔴 [AUG 2025 - FEB 2026] ── Biratnagar Kings ──── Lead Designer
-│                                 └── Kathmandu
-│
-├── 🔴 [FEB 2025 - FEB 2026] ── Upwork ────────────── Graphic Designer
-│                                 └── Freelance | International Clients
-│
-├── 🔴 [FEB 2025 - JUN 2025] ── National Sports Council (NEBA)
-│                                 └── Graphic Designer | Nepal
-│
-├── 🔴 [OCT 2024 - JUN 2025] ── Idea Pixel ────────── Visual Designer
-│                                 └── Kathmandu, Nepal
-│
-├── 🔴 [MAR 2025 - APR 2025] ── Pitambar Movie ────── Graphic Designer
-│                                 └── Nepal
-│
-└── 🔴 [OCT 2024 - DEC 2024] ── Karnali Yaks ─────── Graphic Designer
-                                  └── Branding & Digital Marketing | Nepal
-
-
-                                  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- CERTIFICATIONS -->
-> decrypt certifications.enc 🔐
 <div align="center">
-🏆 Certification	🏢 Provider
-🤖 AWS Academy Machine Learning for NLP	Amazon Web Services
-☕ Java Object-Oriented Programming	—
-🧠 AWS Academy Machine Learning Foundations	Amazon Web Services
-☁️ AWS Academy Cloud Foundations	Amazon Web Services
-📊 AWS Academy Data Engineering	Amazon Web Services
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- TECH STACK -->
-> sudo apt-get install skills 🛠️
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
+</div>
+
+<br>
+
+| 🏆 AWS Certifications |
+| :--- |
+| **AWS Academy Graduate** - Machine Learning for NLP |
+| **AWS Academy Graduate** - Machine Learning Foundations |
+| **AWS Academy Graduate** - Cloud Foundations |
+| **AWS Academy Graduate** - Data Engineering |
+
+---
+
+### 🐍 The Snake Game
 <div align="center">
-「 LANGUAGES & FRAMEWORKS 」
-Python
-Java
-JavaScript
-HTML5
-CSS3
-React
+  <img src="https://github.com/sakshamkandel/sakshamkandel/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
-「 CLOUD & AI/ML 」
-AWS
-TensorFlow
-NLP
+---
 
-「 DESIGN TOOLS 」
-Photoshop
-Illustrator
-Figma
-Canva
-After Effects
-Premiere Pro
+### 📊 GitHub Stats
 
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- GITHUB STATS -->
-> neofetch --stats 📊
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakshamkandel&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=00CC33&ring_color=00FF41&hide_border=false" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamkandel&theme=chartreuse-dark&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00CC33&sideLabels=00CC33&dates=006600" /> </div><br><div align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamkandel&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=00CC33" /> </div><br><!-- Activity Graph --><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamkandel&bg_color=000000&color=00FF41&line=00FF41&point=00CC33&area=true&area_color=003300&hide_border=false&custom_title=HACK%20THE%20COMMIT%20HISTORY&title_color=00FF41" width="95%"/> </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- TROPHY -->
-> unlock achievements.exe 🏆
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sakshamkandel&theme=matrix&no-bg=true&no-frame=false&column=7&margin-w=10&margin-h=10" width="95%"/> </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- SNAKE ANIMATION -->
-> python3 snake.py --eat-contributions 🐍
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakshamkandel/sakshamkandel/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakshamkandel/sakshamkandel/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/sakshamkandel/sakshamkandel/output/github-snake-dark.svg" width="100%"/> </picture> </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- CONTACT SECTION -->
-> ssh saksham@connect 📡
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamkandel&show_icons=true&theme=radical&hide_border=true" alt="Saksham's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamkandel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
+---
 
-Email
-LinkedIn
-Phone
-Upwork</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- PROFILE VIEWS & VISITORS --><div align="center">
-> SYSTEM MONITORING 👁️
-Profile Views
+### 💼 Professional Experience
 
-<br><!-- Animated Quote --><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" width="70%"/></div><br><!-- MATRIX ANIMATION --><div align="center">
+| Role | Company | Duration |
+| :--- | :--- | :--- |
+| **Founder** | Kurly Brains | Feb 2026 - Present |
+| **Visual Designer** | ASINIFY | Jun 2025 - Present |
+| **Creative Lead** | Everest Thunders | Dec 2025 - Feb 2026 |
+| **Lead Designer** | Biratnagar Kings | Aug 2025 - Feb 2026 |
+| **Graphic Designer** | National Sports Council (NEBA) | Feb 2025 - Jun 2025 |
