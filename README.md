@@ -33,8 +33,12 @@
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🚀 Current Focus
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+
+</div>
 
 - 🎓 BSc AI @ **Islington College** & **London Metropolitan University**
 - 💼 Founder @ **Kurly Brains**
@@ -42,32 +46,6 @@
 - ☁️ AWS Certified (Cloud, ML, NLP, Data Engineering)
 - 🌍 Freelancing on **Upwork**
 
-</td>
-<td width="50%" valign="top">
-
-### 📊 Quick Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshamkandel&show_icons=true&theme=transparent&hide_border=true&title_color=FF6B35&icon_color=FFD23F&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Experience Section -->
-<div align="center">
-
-| ![](https://img.shields.io/badge/-%F0%9F%92%BC%20Experience-0D1117?style=for-the-badge) |
-|:-|
-
-</div>
-
-<table>
-<tr>
-<td width="100%" valign="top">
 
 <details>
 <summary><img src="https://img.shields.io/badge/-Kurly%20Brains-FF6B35?style=flat-square&logo=rocket&logoColor=white"/> <b>Founder</b> | Feb 2026 - Present</summary>
